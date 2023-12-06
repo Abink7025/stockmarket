@@ -6,7 +6,7 @@ class OnboardingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(width:,
+      body: Container(width:12,
         child: Column(
           children: [
             Stack(children: [
